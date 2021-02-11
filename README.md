@@ -1,6 +1,6 @@
 # dynamic_theming
 
-A new Flutter application.
+A new Flutter application with the code for having Dynamic Themes in your apps that is Light Theme and Dark Theme
 
 ## Getting Started
 
